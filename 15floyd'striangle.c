@@ -8,7 +8,7 @@ int main()
   {
   for (b=1;b<= i;b++)
   {
-  printf("%d",c); // Please note space after %d
+  printf("%d",c);
   c++;
   }
   printf("\n");
