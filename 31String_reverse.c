@@ -7,8 +7,8 @@ void main()
     printf("Size of the array:");
     scanf("%d",&m);
     char A[m];
-    printf("Enter the string:");
+    printf("Enter the string: ");
     scanf("%s",A);
     strrev(A);
-    printf("%s",A);
+    printf("Reversed string: %s",A);
 }
