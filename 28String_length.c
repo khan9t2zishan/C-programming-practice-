@@ -6,7 +6,7 @@ void main()
     int m;
     printf("Enter the size of the Array:");
     scanf("%d",&m);
-    char A[m],i;
+    char A[m];
     printf("Enter the string:");
     scanf("%s",A);
     strlen(A);
